@@ -1,0 +1,37 @@
+{
+    "questions": [
+      {
+        "question": "What is C",
+        "answer": "C is a general-purpose programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs."
+      },
+      {
+        "question": "bubble sort",
+        "answer": "Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. The algorithm gets its name because smaller elements bubble to the top of the list as the algorithm makes multiple passes."
+      },
+      {
+        "question": "heap sort",
+        "answer": "Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure to build a max-heap or min-heap. In the case of Heap Sort, it builds a max-heap (where the parent nodes are greater than or equal to their children) and then repeatedly removes the largest element from the heap, places it at the end of the array, and reduces the heap size. This process continues until the entire array is sorted."
+      },
+      {
+        "question": "What is a variable in programming?",
+        "answer": "A variable is a symbolic name or identifier that represents a value or data stored in a computer's memory. It can hold different types of data, such as numbers, text, or objects, and its value can be changed during program execution."
+      },
+      {
+        "question": "What is the difference between '==' and '===' in JavaScript?",
+        "answer": "'==' is a loose equality operator that compares values for equality, while '===' is a strict equality operator that not only compares values but also checks their data types. '===' requires both the value and data type to be the same for two values to be considered equal."
+      },
+      {
+        "question": "What is a function in programming?",
+        "answer": "A function is a reusable block of code that performs a specific task or set of tasks. It is defined with a name, a set of parameters (if needed), and a block of code that can be executed when the function is called."
+      },
+      {
+        "question": "What is the difference between an array and a linked list in data structures?",
+        "answer": "An array is a fixed-size data structure that stores elements in contiguous memory locations, allowing for efficient random access. A linked list, on the other hand, is a dynamic data structure where elements (nodes) are connected by pointers, and it provides efficient insertion and deletion but slower random access."
+      },
+      {
+        "question": "What is object-oriented programming (OOP)?",
+        "answer": "Object-oriented programming is a programming paradigm that uses objects as the central building blocks of software. Objects encapsulate data and behavior, allowing for modular and reusable code. OOP concepts include classes, inheritance, polymorphism, and encapsulation."
+      }
+    ]
+  }
+  
